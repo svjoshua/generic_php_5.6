@@ -1,0 +1,3 @@
+Host github.com
+	StrictHostKeyChecking=no
+	IdentityFile /home/vagrant/github_key
